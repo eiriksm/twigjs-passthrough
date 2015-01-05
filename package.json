@@ -1,0 +1,26 @@
+{
+  "name": "twigjs-passthrough",
+  "version": "0.0.1",
+  "description": "twigjs-passthrough ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eiriksm/twigjs-passthrough.git"
+  },
+  "keywords": [
+    "twig"
+  ],
+  "author": "Eirik S. Morland <eirik@morland.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eiriksm/twigjs-passthrough/issues"
+  },
+  "homepage": "https://github.com/eiriksm/twigjs-passthrough",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.4.2"
+  }
+}
