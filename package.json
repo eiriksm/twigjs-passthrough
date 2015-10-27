@@ -21,6 +21,6 @@
   "homepage": "https://github.com/eiriksm/twigjs-passthrough",
   "devDependencies": {
     "mocha": "^2.1.0",
-    "should": "^4.4.2"
+    "should": "^7.1.1"
   }
 }
