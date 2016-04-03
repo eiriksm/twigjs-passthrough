@@ -4,7 +4,8 @@
   "description": "twigjs-passthrough ==================",
   "main": "index.js",
   "scripts": {
-    "test": "eslint . && mocha"
+    "test": "eslint . && mocha",
+    "coverage": "istanbul cover -- _mocha"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,9 @@
   },
   "homepage": "https://github.com/eiriksm/twigjs-passthrough",
   "devDependencies": {
+    "coveralls": "^2.11.9",
     "eslint": "^2.1.0",
+    "istanbul": "^0.4.2",
     "mocha": "^2.1.0",
     "should": "^8.0.1"
   }
