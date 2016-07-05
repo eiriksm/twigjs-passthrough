@@ -22,7 +22,7 @@
   "homepage": "https://github.com/eiriksm/twigjs-passthrough",
   "devDependencies": {
     "coveralls": "^2.11.9",
-    "eslint": "^2.7.0",
+    "eslint": "^3.0.1",
     "istanbul": "^0.4.3",
     "mocha": "^2.5.0",
     "should": "^9.0.0"
